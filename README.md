@@ -9,9 +9,9 @@
 ## golang安装开发 ##
 
 ### 安装golang  ###
-[下载golang][https://studygolang.com/dl]
+[下载golang](https://studygolang.com/dl)
 
-[本文选择下载的版本>>>][https://studygolang.com/dl/golang/go1.19.3.windows-amd64.msi]
+[本文选择下载的版本>>>](https://studygolang.com/dl/golang/go1.19.3.windows-amd64.msi)
 
 ### 配置环境 ###
 如果选择的msi方式安装则自动会配置环境，源码安装需配置环境  
@@ -28,7 +28,7 @@ win+R，输入cmd打开窗口
 
 
 ## 学习教程 ##  
-[golang文档教程][http://docscn.studygolang.com/doc/]
+[golang文档教程](http://docscn.studygolang.com/doc/)
 会对其中的内容进行一些讲解，自己看文档也可以  
 
 
