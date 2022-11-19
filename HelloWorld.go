@@ -1,4 +1,4 @@
-package GolangStudy	// 包名
+package main	// 包声名
 
 
 import "fmt"		// 引入包，fmt包为：输入输出包

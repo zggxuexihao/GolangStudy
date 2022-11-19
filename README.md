@@ -34,7 +34,7 @@ win+R，输入cmd打开窗口
 
 本人会在基础教程上进行基础+底层的模式进行学习教程，希望可以更好的进行学习  
 
-### 第一课 认识Golang ###  
+### 第一章 认识Golang ###  
 历史人物：Go是从2007年末由Robert Griesemer, Rob Pike, Ken Thompson主持开发，后来还加入了Ian Lance Taylor, Russ Cox等人，并最终于2009年11月开源，在2012年早些时候发布了Go 1稳定版本。现在Go的开发已经是完全开放的，并且拥有一个活跃的社区。
 
 
@@ -49,4 +49,14 @@ go run test.go  获取执行结果
 go build test.go
 ./test 获取执行结果
 
-[教程][]
+[第一课：Hello World](https://github.com/zggxuexihao/GolangStudy/blob/main/HelloWorld.go)  
+
+[第二课：基础语法](https://github.com/zggxuexihao/GolangStudy/blob/main/Grammar.go)  
+
+[第三课：基础数据类型](https://github.com/zggxuexihao/GolangStudy/blob/main/DataType.go)  
+
+[第四课：数据类型底层结构]()  
+
+[第五课：Go错误处理]()  
+
+[第六课：Go并发]()
